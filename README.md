@@ -1,6 +1,6 @@
 # 🏦 Acelerando a aprendizagem com IA
 
-Contribuição do projeto no NotebookLM que fiz sobre um tema financeiro, que escolhi a gestão de dívidas. Para se acostumar mais com o NotbookLM da Google, acabei por testar fazendo com um jogo que gosto, para testar a potência da ferramenta e o quanto ela poderia nos ajudar.
+Contribuição do projeto no NotebookLM que fiz sobre um tema financeiro, que escolhi a gestão de dívidas. Para se acostumar mais com o NotbookLM da Google, acabei por experimentar fazendo com um jogo que gosto, para testar a potência da ferramenta e o quanto ela poderia nos ajudar.
 
 ## 🚀 O Desafio
 O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de três a cinco fontes abertas em texto ou PDF sobre um assunto financeiro introdutório. A partir desse material, são definidos objetivos de estudo, elaboradas perguntas estratégicas e testadas variações de prompts, registrando as respostas e suas referências.
