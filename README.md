@@ -22,6 +22,6 @@ O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de
 
 ---
 
-## 📖 Como utilizar este guia
+## 📖 Como utilizar este [`guia`](./Guide)
 1. Utilize os [`prompts`](./Prompts) em suas próprias ferramentas de IA para revisões futuras.
 2. Explore as [`fontes`](./Sources/sources.md) para entender as referências utilizadas.
