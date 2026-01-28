@@ -9,9 +9,9 @@ O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de
 
 ## 📂 Estrutura do Projeto
 
-* **[`Prompts`](./prompts):** Registro de testes e variações de perguntas para a IA.
-* **[`Sources`](./sources):** Curadoria de 4 fontes abertas (CNJ, SPC Brasil, etc) que serviram de base de conhecimento.
-
+* **[`Guide`](./Guide/):** Resultado final contendo o resumo estruturado e o glossário de termos fundamentais.
+* **[`Prompts`](./Prompts/):** Registro de testes e variações de perguntas para a IA.
+* **[`Sources`](./Sources/):** Curadoria de 4 fontes abertas (CNJ, SPC Brasil, etc) que serviram de base de conhecimento.
 
 ---
 
@@ -21,10 +21,10 @@ O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+## 👽 Explore o Conhecimento Gerado
 
-Quer conhecer termos que usa-se na gestão financeira? Que tal dar uma olhada no glossário?
-Não? Então por que não ver um resumo do projeto?
+Agora que o processamento foi concluído, você pode navegar pelos resultados finais do guia:
 
-<!--## 📖 Como utilizar este [`guia`](./Guide)
-1. Utilize os [`prompts`](./Prompts) em suas próprias ferramentas de IA para revisões futuras.
-2. Explore as [`fontes`](./Sources/sources.md) para entender as referências utilizadas.-->
+* **Ficou em dúvida sobre algum termo técnico?** 👉 [**Acesse o Glossário de Conceitos**](./Guide/glossary.md) para entender termos como Mínimo Existencial, CET e Score de Crédito.
+
+* **Quer ir direto ao que interessa?** 👉 [**Confira o Resumo Estruturado**](./Guide/summary.md) com as melhores estratégias de quitação e o panorama legal para recuperar sua saúde financeira.
