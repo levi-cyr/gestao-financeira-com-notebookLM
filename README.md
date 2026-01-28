@@ -28,3 +28,6 @@ Agora que o processamento foi concluído, você pode navegar pelos resultados fi
 * **Ficou em dúvida sobre algum termo técnico?** 👉 [**Acesse o Glossário de Conceitos**](./Guide/glossary.md) para entender termos como Mínimo Existencial, CET e Score de Crédito.
 
 * **Quer ir direto ao que interessa?** 👉 [**Confira o Resumo Estruturado**](./Guide/summary.md) com as melhores estratégias de quitação e o panorama legal para recuperar sua saúde financeira.
+
+* **Que tal verificar as fontes?** 👉 [**Veja as fontes consultadas**](./Sources/sources.md) para validar os dados técnicos e jurídicos utilizados.
+
