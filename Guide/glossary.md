@@ -1,4 +1,6 @@
-### Glossário de Gestão de Dívidas
+# 📖 Glossário de Gestão de Dívidas
+
+Este glossário reúne os termos fundamentais consolidados durante o estudo sobre saúde financeira e direitos do consumidor.
 
 *   **Consolidação de Dívidas**
     Solução financeira que une diversos débitos de diferentes credores em um único contrato. O objetivo é facilitar a gestão (pagando apenas uma parcela mensal) e tentar reduzir os juros médios ou estender o prazo de pagamento.
