@@ -16,10 +16,11 @@ O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de
 ---
 
 ## 🛠️ Tecnologias usadas
-![NotebookLM](https://img.shields.io/badge/NotebookLM-blue?)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-grey?style=flat-square&logo=markdown)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ---
 ## 👽 Explore o Conhecimento Gerado
 
@@ -28,6 +29,8 @@ Agora que o processamento foi concluído, você pode navegar pelos resultados fi
 * **Ficou em dúvida sobre algum termo técnico?** 👉 [**Acesse o Glossário de Conceitos**](./Guide/glossary.md) para entender termos como Mínimo Existencial, CET e Score de Crédito.
 
 * **Quer ir direto ao que interessa?** 👉 [**Confira o Resumo Estruturado**](./Guide/summary.md) com as melhores estratégias de quitação e o panorama legal para recuperar sua saúde financeira.
+
+* **Quer continuar estudando?** 👉 [**Prompts Reutilizáveis**](./Prompts/Reusables/reusables.md) para realizar revisões ativas e novas simulações no NotebookLM.
 
 * **Que tal verificar as fontes?** 👉 [**Veja as fontes consultadas**](./Sources/sources.md) para validar os dados técnicos e jurídicos utilizados.
 
