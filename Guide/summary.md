@@ -62,3 +62,13 @@ Como evitar a reincidência e manter a saúde financeira.
 ---
 💡 Dica de Estudo Comparativo
 Ao final dos estudos, o aluno deve ser capaz de responder: "Para o meu perfil, faz mais sentido buscar uma proteção jurídica (Lei do Superendividamento), uma reestruturação de mercado (Consolidação) ou apenas uma mudança de hábito de pagamento (Avalanche/Bola de Neve)?".
+
+---
+📚 Fontes de Referência
+>Extraído da fonte: *['CNJ Serviço: o que muda com a Lei do Superendividamento?'](https://www.cnj.jus.br/cnj-servico-o-que-muda-com-a-lei-do-superendividamento/)*.
+
+>Extraído da fonte: *['Consolidação de dívidas: entenda o impacto nas suas finanças'](https://www.spcbrasil.com.br/blog/consolidacao-de-dividas)*.
+
+>Extraído da fonte: *['Lei do Superendividamento: entenda o Mínimo Existencial'](https://www.spcbrasil.com.br/blog/lei-do-superendividamento)*.
+
+>Extraído da fonte *[Método avalanche e bola de neve: qual é o melhor para quitar dívidas?'](https://blu365.com.br/blog/metodo-avalanche-e-bola-de-neve/)*.
